@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Nav, Navbar, Image, Container } from 'react-bootstrap';
 import './NavigationBar.css';
-import logo from '../../Resources/logo.png';
+import logo from '../../Resources/Logo.png';
 
 class Contact extends Component{
     render(){
